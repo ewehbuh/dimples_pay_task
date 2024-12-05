@@ -1,0 +1,64 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "user1@example.com",
+        "password": "password123",
+        "token": "token_abc123",
+        "wallet": {
+          "balance": 5000
+        },
+        "nfc_card": {
+          "card_id": "11111",
+          "balance": 2000,
+          "status": "active"
+        }
+      },
+      {
+        "id": 2,
+        "email": "user2@example.com",
+        "password": "password456",
+        "token": "token_def456",
+        "wallet": {
+          "balance": 3000
+        },
+        "nfc_card": {
+          "card_id": "22222",
+          "balance": 1000,
+          "status": "inactive"
+        }
+      },
+      {
+        "id": 3,
+        "email": "user3@example.com",
+        "password": "password789",
+        "token": "token_ghi789",
+        "wallet": {
+          "balance": 7000
+        },
+        "nfc_card": {
+          "card_id": "33333",
+          "balance": 5000,
+          "status": "active"
+        }
+      }
+    ],
+    "wallet": {
+      "balance": 0
+    },
+    "gift_cards": [
+      {
+        "id": 1,
+        "name": "Amazon Gift Card",
+        "price": 500,
+        "status": "available"
+      },
+      {
+        "id": 2,
+        "name": "Spotify Gift Card",
+        "price": 300,
+        "status": "available"
+      }
+    ]
+  }
+  
