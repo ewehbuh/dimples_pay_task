@@ -24,10 +24,6 @@ To run this project, ensure you have the following installed:
 
 Here is the content formatted as a **README.md** file:
 
-```markdown
-# Dimplespay Card Management App
-
-## Setup Instructions
 
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
